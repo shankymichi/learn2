@@ -1,0 +1,31 @@
+body {
+  background: rgb(185, 184, 185);
+}
+.rounded-circle {
+  height: 70%;
+  width: 100%;
+}
+
+.form-control:focus {
+  box-shadow: none;
+  border-color: #7668c8;
+}
+
+.profile-button {
+  background: rgb(167, 36, 42);
+  box-shadow: none;
+  border: none;
+}
+
+.profile-button:hover {
+  background: #179c8b;
+}
+
+.profile-button:focus {
+  background: #179c8b;
+  box-shadow: none;
+}
+
+.labels {
+  font-size: 11px;
+}
